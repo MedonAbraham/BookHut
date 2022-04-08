@@ -1,0 +1,153 @@
+.bodyMain{
+    background-image: url("../pictures/Backgrounds/LoginAndSignUp.jpg");
+}
+
+
+
+.card-subtitle{
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+
+.login-form, .signup-form{
+    background-color: white;
+    color: black;
+    border-style: solid;
+    width: 350px;
+    padding: 20px 20px 20px 20px;
+    margin: 10% auto;
+
+}
+
+.login-form{
+    height: 350px;
+}
+
+.signup-form{
+    height: 600px;
+}
+
+.contact-form{
+    border-style: solid;
+    border-color: darkgray;
+    background-color: white;
+    width: available;
+}
+
+
+
+.col{
+    margin-bottom: 50px;
+    margin-left: 23px;
+}
+
+
+.description{
+    padding: 30px;
+    width: 500px;
+    height: 520px;
+
+}
+
+.homeText{
+    font-style: oblique;
+}
+
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: Verdana, serif;
+
+}
+
+.col-sm-6{
+    padding: 20px;
+    width: 33%;
+
+}
+
+.col-md-6{
+    margin-bottom: 30px;
+}
+
+.book-card{
+    width: 320px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+card{
+
+}
+
+.card-body{
+    height: auto;
+    width: -moz-fit-content;
+    padding: 20px;
+
+}
+
+.card-img-top{
+    width: 310px;
+    height: 380px;
+    padding: 20px;
+}
+
+.book_title{
+    margin-bottom: 30px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.book-image{
+    align-content: space-evenly;
+}
+
+.card-body-books{
+    height: fit-content;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.remove-book{
+    position: absolute;
+    top:10px;
+    right:10px;
+}
+
+.card-header{
+    background-color: #212529;
+    font-style: revert;
+    color: white;
+}
+
+.review-form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #F4F4F4;
+
+}
+
+.list-box{
+    padding: 20px;
+}
+
+.max-lines {
+
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 5.6em;
+    line-height: 1.8em;
+}
+
+
+.row {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
